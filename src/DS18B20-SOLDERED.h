@@ -13,8 +13,8 @@
 #define _DS18B20_H
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
 #include "libs/Arduino-Temperature-Control-Library/DallasTemperature.h"
+#include "libs/Generic-easyC/easyC.h"
 #include "libs/OneWire/OneWire.h"
 
 
@@ -22,10 +22,9 @@ class DS18B20 : public DallasTemperature
 {
   public:
     using DallasTemperature::DallasTemperature;
-    
+
 
   protected:
-
   private:
     int pin;
 };
