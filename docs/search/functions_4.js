@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sendaddress_32',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_33',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_34',['Sensor',['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor']]]
+  ['dallastemperature_163',['DallasTemperature',['../class_dallas_temperature.html#af46e868b6702ff5f77263985cd990e01',1,'DallasTemperature::DallasTemperature()'],['../class_dallas_temperature.html#a37139ebd1a6122e232800528aee8cb2b',1,'DallasTemperature::DallasTemperature(OneWire *)'],['../class_dallas_temperature.html#a969830229b986fd70983c49349094d61',1,'DallasTemperature::DallasTemperature(OneWire *, uint8_t)'],['../class_d_s18_b20.html#af46e868b6702ff5f77263985cd990e01',1,'DS18B20::DallasTemperature()'],['../class_d_s18_b20.html#a37139ebd1a6122e232800528aee8cb2b',1,'DS18B20::DallasTemperature(OneWire *)'],['../class_d_s18_b20.html#a969830229b986fd70983c49349094d61',1,'DS18B20::DallasTemperature(OneWire *, uint8_t)']]],
+  ['deactivateexternalpullup_164',['deactivateExternalPullup',['../class_dallas_temperature.html#a4b86babf316fe07c620504e865e1754d',1,'DallasTemperature']]],
+  ['depower_165',['depower',['../class_one_wire.html#aa8e0f62e830ad05d8035e55c7a309256',1,'OneWire']]]
 ];

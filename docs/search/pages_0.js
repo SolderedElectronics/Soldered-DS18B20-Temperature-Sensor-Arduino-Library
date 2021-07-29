@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['naziv_20proizvoda_20arduino_20library_41',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['issue_5ftemplate_273',['issue_template',['../md_src_libs__one_wire_docs_issue_template.html',1,'']]]
 ];

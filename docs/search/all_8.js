@@ -1,6 +1,11 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['if_59',['if',['../_one_wire__direct__gpio_8h.html#afb5d5c64342a157c941ef4670ecabb45',1,'OneWire_direct_gpio.h']]],
+  ['initializenative_60',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC']]],
+  ['isallzeros_61',['isAllZeros',['../class_dallas_temperature.html#a583e8092edc0df0ff368cb3c0e03d297',1,'DallasTemperature']]],
+  ['isconnected_62',['isConnected',['../class_dallas_temperature.html#a19afa5e594de0ab6caa5a48a70650927',1,'DallasTemperature::isConnected(const uint8_t *)'],['../class_dallas_temperature.html#a624f64b186c13927d4f74bd7c5b92c2e',1,'DallasTemperature::isConnected(const uint8_t *, uint8_t *)']]],
+  ['isconversioncomplete_63',['isConversionComplete',['../class_dallas_temperature.html#a9e92719781d3ead44b95964d59edd41d',1,'DallasTemperature']]],
+  ['isparasitepowermode_64',['isParasitePowerMode',['../class_dallas_temperature.html#a835945ed3e8d78c31791e55f22084691',1,'DallasTemperature']]],
+  ['issue_5ftemplate_65',['issue_template',['../md_src_libs__one_wire_docs_issue_template.html',1,'']]],
+  ['issue_5ftemplate_2emd_66',['issue_template.md',['../issue__template_8md.html',1,'']]]
 ];

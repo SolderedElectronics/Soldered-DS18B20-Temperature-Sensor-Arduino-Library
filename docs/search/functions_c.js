@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['rawtocelsius_196',['rawToCelsius',['../class_dallas_temperature.html#a75accb4a56858189accda00e5eabb06e',1,'DallasTemperature']]],
+  ['rawtofahrenheit_197',['rawToFahrenheit',['../class_dallas_temperature.html#a48bc1a4d0e33f1735964c22c8bd2f6fb',1,'DallasTemperature']]],
+  ['read_198',['read',['../class_one_wire.html#afd9bdb8b5a5b69b394dfc76352e00e21',1,'OneWire']]],
+  ['read_5fbit_199',['read_bit',['../class_one_wire.html#aeae4c2798b70d9d0ba3091c03ee2d056',1,'OneWire']]],
+  ['read_5fbytes_200',['read_bytes',['../class_one_wire.html#a2407440e8e25b624617593f8ad6447d4',1,'OneWire']]],
+  ['readdata_201',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
+  ['readpowersupply_202',['readPowerSupply',['../class_dallas_temperature.html#a4a2a5e3a524ba99b944e269ab137d132',1,'DallasTemperature']]],
+  ['readregister_203',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]],
+  ['readscratchpad_204',['readScratchPad',['../class_dallas_temperature.html#a2b55774207d0211fd679247a7137142b',1,'DallasTemperature']]],
+  ['recallscratchpad_205',['recallScratchPad',['../class_dallas_temperature.html#a938b0167b53c595796a37b1f22304b93',1,'DallasTemperature']]],
+  ['recallscratchpadbyindex_206',['recallScratchPadByIndex',['../class_dallas_temperature.html#aac3baa22782b1a707f5ab195498804ae',1,'DallasTemperature']]],
+  ['requesttemperatures_207',['requestTemperatures',['../class_dallas_temperature.html#a5d28cff0d7e317c28e28c0f1a62fbe6d',1,'DallasTemperature']]],
+  ['requesttemperaturesbyaddress_208',['requestTemperaturesByAddress',['../class_dallas_temperature.html#aee2a2abd5f8293df9a0a030b3e982c90',1,'DallasTemperature']]],
+  ['requesttemperaturesbyindex_209',['requestTemperaturesByIndex',['../class_dallas_temperature.html#ae9a7bf62321615519242d2421c8b349a',1,'DallasTemperature']]],
+  ['reset_210',['reset',['../class_one_wire.html#a6a742a9112392567eae3d06dde067c07',1,'OneWire']]],
+  ['reset_5fsearch_211',['reset_search',['../class_one_wire.html#aae5efdf67928b5ee312ab7d7906416fa',1,'OneWire']]],
+  ['resetalarmsearch_212',['resetAlarmSearch',['../class_dallas_temperature.html#aaf49f6a59185a79cb47c0c14f81bc6e2',1,'DallasTemperature']]],
+  ['return_213',['return',['../_one_wire__direct__gpio_8h.html#ae24b7286834f5e79c4b2e918491c3ab7',1,'OneWire_direct_gpio.h']]]
+];

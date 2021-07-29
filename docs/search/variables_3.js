@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['err_38',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['checkforconversion_252',['checkForConversion',['../class_dallas_temperature.html#a60788371290c97ee586b8f5558ee8f92',1,'DallasTemperature']]]
 ];
