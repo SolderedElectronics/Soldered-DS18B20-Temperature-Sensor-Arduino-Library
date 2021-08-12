@@ -6,10 +6,6 @@ var files_dup =
     [ "DS18B20-SOLDERED.h", "_d_s18_b20-_s_o_l_d_e_r_e_d_8h.html", [
       [ "DS18B20", "class_d_s18_b20.html", "class_d_s18_b20" ]
     ] ],
-    [ "easyC.cpp", "easy_c_8cpp.html", null ],
-    [ "easyC.h", "easy_c_8h.html", [
-      [ "EasyC", "class_easy_c.html", "class_easy_c" ]
-    ] ],
     [ "OneWire.cpp", "_one_wire_8cpp.html", "_one_wire_8cpp" ],
     [ "OneWire.h", "_one_wire_8h.html", [
       [ "OneWire", "class_one_wire.html", "class_one_wire" ]

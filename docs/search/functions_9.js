@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['millistowaitforconversion_191',['millisToWaitForConversion',['../class_dallas_temperature.html#aae245e1a7b28fc74a8cf9d3891a3cb3d',1,'DallasTemperature::millisToWaitForConversion(uint8_t)'],['../class_dallas_temperature.html#a5464bf4be705e8aee54ccda8697baf3b',1,'DallasTemperature::millisToWaitForConversion()']]]
+  ['onewire_174',['OneWire',['../class_one_wire.html#a53c5f16449d6baaa2b7f1fb1f61162f6',1,'OneWire::OneWire()'],['../class_one_wire.html#aa3f23dc51d861a8d257648c507b14e8d',1,'OneWire::OneWire(uint8_t pin)']]],
+  ['operator_20delete_175',['operator delete',['../class_dallas_temperature.html#ae01eaffb733b1fa094a26fa49b335a95',1,'DallasTemperature']]],
+  ['operator_20new_176',['operator new',['../class_dallas_temperature.html#a899dc836359a9661ba55b4c8824d4c8e',1,'DallasTemperature']]]
 ];

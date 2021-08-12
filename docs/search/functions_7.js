@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['hasalarm_183',['hasAlarm',['../class_dallas_temperature.html#ad69d65dc362111b2a417d1c68d305c83',1,'DallasTemperature::hasAlarm(const uint8_t *)'],['../class_dallas_temperature.html#a45254129aa3bd7ee1605a16920abef0e',1,'DallasTemperature::hasAlarm(void)']]],
-  ['hasalarmhandler_184',['hasAlarmHandler',['../class_dallas_temperature.html#a8ef174cbaa01ac5523e81a07b7519154',1,'DallasTemperature']]]
+  ['if_168',['if',['../_one_wire__direct__gpio_8h.html#afb5d5c64342a157c941ef4670ecabb45',1,'OneWire_direct_gpio.h']]],
+  ['isallzeros_169',['isAllZeros',['../class_dallas_temperature.html#a583e8092edc0df0ff368cb3c0e03d297',1,'DallasTemperature']]],
+  ['isconnected_170',['isConnected',['../class_dallas_temperature.html#a19afa5e594de0ab6caa5a48a70650927',1,'DallasTemperature::isConnected(const uint8_t *)'],['../class_dallas_temperature.html#a624f64b186c13927d4f74bd7c5b92c2e',1,'DallasTemperature::isConnected(const uint8_t *, uint8_t *)']]],
+  ['isconversioncomplete_171',['isConversionComplete',['../class_dallas_temperature.html#a9e92719781d3ead44b95964d59edd41d',1,'DallasTemperature']]],
+  ['isparasitepowermode_172',['isParasitePowerMode',['../class_dallas_temperature.html#a835945ed3e8d78c31791e55f22084691',1,'DallasTemperature']]]
 ];
