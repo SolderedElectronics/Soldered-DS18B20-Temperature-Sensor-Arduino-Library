@@ -14,7 +14,6 @@
 
 #include "Arduino.h"
 #include "libs/Arduino-Temperature-Control-Library/DallasTemperature.h"
-#include "libs/Generic-easyC/easyC.h"
 #include "libs/OneWire/OneWire.h"
 
 
