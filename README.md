@@ -4,8 +4,8 @@
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-DS18B20-Temperature-Sensor-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-DS18B20-Temperature-Sensor-Arduino-Library/actions/workflows/make_docs.yml)
 
 | ![Soldered DS18B20 Temperature Sensor](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
-| :---------------------------------------------------------------------------------------------: |
-| [Soldered DS18B20 Temperature Sensor](https://www.solde.red/SKU)                                                            |
+| :-----------------------------------------------------------------------------------------------------------: |
+| [Soldered DS18B20 Temperature Sensor](https://www.solde.red/101203)                                           |
 
 Soldered DS18B20 Temperature Sensor [easyC ecosystem](https://www.soldered.com/easyC). 
 

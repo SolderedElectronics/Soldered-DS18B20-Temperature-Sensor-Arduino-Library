@@ -7,7 +7,7 @@
  *
  *
  * @authors     @ soldered.com, Robert Peric
- * @link        www.solde.red/333069
+ * @link        www.solde.red/101203
  ***************************************************/
 
 // Include our library
@@ -27,36 +27,36 @@ DS18B20 sensors(&oneWire);
  */
 void setup(void)
 {
-  // start serial port
-  Serial.begin(9600);
-  Serial.println("Temperature IC Control Library Demo");
+    // start serial port
+    Serial.begin(9600);
+    Serial.println("Temperature IC Control Library Demo");
 
-  // Start up the library
-  sensors.begin();
+    // Start up the library
+    sensors.begin();
 }
 
 /*
  * Main function, get and show the temperature
  */
 void loop(void)
-{ 
-  // call sensors.requestTemperatures() to issue a global temperature 
-  // request to all devices on the bus
-  Serial.print("Requesting temperatures...");
-  sensors.requestTemperatures(); // Send the command to get temperatures
-  Serial.println("DONE");
-  // After we got the temperatures, we can print them here.
-  // We use the function ByIndex, and as an example get the temperature from the first sensor only.
-  float tempC = sensors.getTempCByIndex(0);
+{
+    // call sensors.requestTemperatures() to issue a global temperature
+    // request to all devices on the bus
+    Serial.print("Requesting temperatures...");
+    sensors.requestTemperatures(); // Send the command to get temperatures
+    Serial.println("DONE");
+    // After we got the temperatures, we can print them here.
+    // We use the function ByIndex, and as an example get the temperature from the first sensor only.
+    float tempC = sensors.getTempCByIndex(0);
 
-  // Check if reading was successful
-  if(tempC != DEVICE_DISCONNECTED_C) 
-  {
-    Serial.print("Temperature for the device 1 (index 0) is: ");
-    Serial.println(tempC);
-  } 
-  else
-  {
-    Serial.println("Error: Could not read temperature data");
-  }
+    // Check if reading was successful
+    if (tempC != DEVICE_DISCONNECTED_C)
+    {
+        Serial.print("Temperature for the device 1 (index 0) is: ");
+        Serial.println(tempC);
+    }
+    else
+    {
+        Serial.println("Error: Could not read temperature data");
+    }
 }
