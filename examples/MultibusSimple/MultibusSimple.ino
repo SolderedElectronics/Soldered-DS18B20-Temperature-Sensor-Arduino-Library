@@ -43,20 +43,20 @@ void loop(void)
     // call sensors.requestTemperatures() to issue a global temperature
     // request to all devices on the bus
     Serial.print("Requesting temperatures...");
-    for (int i = 0; i < oneWireCount; i++)
+    for (int i = 0; i < oneWireCount; i++)  //Loop through all sensors
     {
-        sensor[i].requestTemperatures();
+        sensor[i].requestTemperatures(); //Request temperature from sensor with index i
     }
     Serial.println("DONE");
 
     delay(1000);
     for (int i = 0; i < oneWireCount; i++)
     {
-        float temperature = sensor[i].getTempCByIndex(0);
+        float temperature = sensor[i].getTempCByIndex(0); //Get temperature from sensor with index i
         Serial.print("Temperature for the sensor ");
         Serial.print(i);
         Serial.print(" is ");
-        Serial.println(temperature);
+        Serial.println(temperature); //Print temperature from sensor with index i
     }
     Serial.println();
 }
