@@ -42,8 +42,9 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 
 ### Original source
 ​
-This library is possible thanks to original [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) library. Thank you, Miles Burton. 
-This library is possible thanks to original [arduino-oneWire](https://github.com/PaulStoffregen/OneWire) library. Thank you, Paul Stoffregen. 
+This library is possible thanks to original [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) library. Thank you, Miles Burton, Tim Newsome, Guil Barros and Rob Tillaart. 
+
+This library is possible thanks to original [arduino-oneWire](https://github.com/PaulStoffregen/OneWire) library. Thank you, Paul Stoffregen, Jim Studt and Tom Pollard. 
 
 
 ### Open-source license
